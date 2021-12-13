@@ -1,0 +1,4 @@
+Sitemap: https://finansist-spb.ru/sitemap.xml
+
+User-agent: *
+Disallow:
