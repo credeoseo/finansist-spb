@@ -31,7 +31,7 @@ jobs:
         env:
           WEB_PATH_PREFIX: /
           WEB_ROOT_URL: https://finansist-spb.ru
-          PATH_TO_CONTENT: "../content"
+          PATH_TO_CONTENT: "../finansist-spb.ru"
           CONTENT_REP_FOLDERS: "data, theme, privacy, index, contacts, about-us, img, products, CNAME"
 
       - name: Deploy
