@@ -1,10 +1,10 @@
 {
-    "name": "Финансист",
+    "name": "Финансист Санкт-Петербурга",
     "logoUrl": "/img/logo.png",
     "faviconUrl": "/img/favicon.png",
     "department": "MSK",
     "wmid": "18245",
-    "city": "Тула",
+    "city": "СПБ",
     "api": "https://credeo.ru/v1/lead/new-guest",
     "credeoApi": true
 }
